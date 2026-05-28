@@ -1,0 +1,32 @@
+aid: collins
+name: Collins
+description: "Bilingual Dictionary and Thesaurus Data"
+url: https://api.collinsdictionary.com/api/v1/documentation/html/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Dictionaries"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Dictionaries
+  - Public APIs
+apis:
+  - name: Collins
+    description: "Bilingual Dictionary and Thesaurus Data"
+    humanURL: https://api.collinsdictionary.com/api/v1/documentation/html/
+    baseURL: https://api.collinsdictionary.com/api/v1/documentation/html/
+    tags:
+      - Dictionaries
+    properties:
+      - type: Documentation
+        url: https://api.collinsdictionary.com/api/v1/documentation/html/
+common:
+  - type: Website
+    url: https://api.collinsdictionary.com/api/v1/documentation/html/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
