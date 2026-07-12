@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://api.collinsdictionary.com/api/v1/documentation/html/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/collins-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/collins-domain-security.yml
   - type: Website
     url: https://api.collinsdictionary.com/api/v1/documentation/html/
   - type: PublicAPIsListing
