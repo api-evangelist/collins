@@ -1,4 +1,16 @@
 aid: collins
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/collins.png
 name: Collins
 description: "Bilingual Dictionary and Thesaurus Data"
 url: https://api.collinsdictionary.com/api/v1/documentation/html/
