@@ -39,7 +39,6 @@ apis:
   - name: Collins
     description: "Bilingual Dictionary and Thesaurus Data"
     humanURL: https://api.collinsdictionary.com/api/v1/documentation/html/
-    baseURL: https://api.collinsdictionary.com/api/v1/documentation/html/
     tags:
       - Dictionaries
     properties:
